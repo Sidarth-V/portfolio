@@ -1,4 +1,4 @@
-# Anxiet-ease
+# Portfolio
 
 ![Logo](https://github.com/Sidarth-V/portfolio/blob/main/logo.png)
 
